@@ -1,3 +1,3 @@
 # evc
-new html files
+New HTML files.
 The seed of an EV web project.
